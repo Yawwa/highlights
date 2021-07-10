@@ -1,0 +1,249 @@
+[
+  {
+    "id": 31,
+    "name": "Beverages",
+    "slug": "beverages",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3921,
+      "date_created": "2021-06-29T01:45:32",
+      "date_created_gmt": "2021-06-29T00:45:32",
+      "date_modified": "2021-06-29T01:45:32",
+      "date_modified_gmt": "2021-06-29T00:45:32",
+      "src": "spritefantacola.jpeg",
+      "name": "Beverages",
+      "alt": ""
+    },
+    "menu_order": 3,
+    "count": 2,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/31"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Canned and Packaged Foods",
+    "slug": "canned_foods",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3916,
+      "date_created": "2021-06-29T01:21:05",
+      "date_created_gmt": "2021-06-29T00:21:05",
+      "date_modified": "2021-06-29T01:21:05",
+      "date_modified_gmt": "2021-06-29T00:21:05",
+      "src": "can-photo.png",
+      "name": "Canned and Packaged Foods",
+      "alt": ""
+    },
+    "menu_order": 6,
+    "count": 2,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/33"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Cooking and Baking",
+    "slug": "baking",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3919,
+      "date_created": "2021-06-29T01:27:43",
+      "date_created_gmt": "2021-06-29T00:27:43",
+      "date_modified": "2021-06-29T01:27:43",
+      "date_modified_gmt": "2021-06-29T00:27:43",
+      "src": "baking_image.jpeg",
+      "name": "Cooking and Baking",
+      "alt": ""
+    },
+    "menu_order": 4,
+    "count": 4,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/35"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Cooking Ingredients",
+    "slug": "ingredients",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3920,
+      "date_created": "2021-06-29T01:28:39",
+      "date_created_gmt": "2021-06-29T00:28:39",
+      "date_modified": "2021-06-29T01:28:39",
+      "date_modified_gmt": "2021-06-29T00:28:39",
+      "src": "1.jpeg",
+      "name": "Cooking Ingeridients",
+      "alt": ""
+    },
+    "menu_order": 5,
+    "count": 2,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Food Cupboard",
+    "slug": "food",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3918,
+      "date_created": "2021-06-29T01:27:11",
+      "date_created_gmt": "2021-06-29T00:27:11",
+      "date_modified": "2021-06-29T01:27:11",
+      "date_modified_gmt": "2021-06-29T00:27:11",
+      "src": "rice.png",
+      "name": "Food Cupboard",
+      "alt": ""
+    },
+    "menu_order": 2,
+    "count": 3,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/30"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Food Packs",
+    "slug": "packs",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 4528,
+      "date_created": "2021-07-04T18:39:02",
+      "date_created_gmt": "2021-07-04T17:39:02",
+      "date_modified": "2021-07-04T18:39:11",
+      "date_modified_gmt": "2021-07-04T17:39:11",
+      "src": "pasta_tcm11-68541.jpeg",
+      "name": "category_beverage",
+      "alt": "food_packs"
+    },
+    "menu_order": 0,
+    "count": 2,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/61"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Laundry",
+    "slug": "laundry",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": {
+      "id": 3917,
+      "date_created": "2021-06-29T01:26:25",
+      "date_created_gmt": "2021-06-29T00:26:25",
+      "date_modified": "2021-06-29T01:26:25",
+      "date_modified_gmt": "2021-06-29T00:26:25",
+      "src": "laundry-products-everyone-needs-4150301-Hero-03-b713f6ce8cc84fd889187c05154d9625.jpeg",
+      "name": "Laundry",
+      "alt": ""
+    },
+    "menu_order": 7,
+    "count": 1,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/34"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 1,
+    "count": 3,
+    "_links": {
+      "self": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories/15"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://yawwa.com.ng/wp-json/wc/v3/products/categories"
+        }
+      ]
+    }
+  }
+]
